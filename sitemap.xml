@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+>
+
+  <url>
+    <loc>https://amruth-gr.github.io/</loc>
+  </url>
+
+  <url>
+    <loc>https://amruth-gr.github.io/projects</loc>
+  </url>
+
+  <url>
+    <loc>https://amruth-gr.github.io/about</loc>
+  </url>
+
+  <url>
+    <loc>https://amruth-gr.github.io/contact</loc>
+  </url>
+
+  <url>
+    <loc>https://amruth-gr.github.io/projects/project-1</loc>
+  </url>
+
+  <url>
+    <loc>https://amruth-gr.github.io/projects/project-2</loc>
+  </url>
+
+  <url>
+    <loc>https://amruth-gr.github.io/projects/project-3</loc>
+  </url>
+
+  <url>
+    <loc>https://amruth-gr.github.io/projects/project-4</loc>
+  </url>
+
+  <url>
+    <loc>https://amruth-gr.github.io/projects/project-5</loc>
+  </url>
+
+</urlset>
